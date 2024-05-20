@@ -1,8 +1,8 @@
 # EXERCISM Python
 
-exercises from EXERCISM.
+Exercises from EXERCISM.
 
-Start date: 2024.05.10
+Start date: 2024.05.06
 
 Exercises No.: 2 (2024.05.20)
 
