@@ -4,6 +4,6 @@ Exercises from EXERCISM.
 
 Start date: 2024.05.06
 
-Exercises No.: 4 (2024.05.20)
+Exercises No.: 7 (2024.05.22)
 
 End date: ?
